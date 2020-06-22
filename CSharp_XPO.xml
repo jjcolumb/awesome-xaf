@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlTemplateCategoryInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="XPO">
+  <TemplateCategory Name="CNX">
+    <TemplateCategory Name="BitFrameworks">
+      <TemplateCategory Name="XpoXAF" OptExpanded="true">
+        <Template Name="xcv5">
+          <Comment>VistaDB5ConnectionProvider: VistaDB5</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=VistaDB5;
+Data Source=«Field(filename,FileName)»"/&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcvdb">
+          <Comment>VistaDBConnectionProvider: VistaDB</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=VistaDB;
+Data Source=«Field(filename,FileName)»"/&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcsqli">
+          <Comment>SQLiteConnectionProvider: SQLite</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=SQLite;
+Data Source=«Field(filename,FileName)»"/&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcpos">
+          <Comment>PostgreSqlConnectionProvider: Postgres</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=Postgres;
+Server=«Field(MyServerAddress,ip or host)»;
+User=«Field(MyUserName,UserName)»;
+Password=«Field(MyPassword,Password)»;
+Database=«Field(MyDatabase,Database)»;
+Encoding=«Field(UNICODE,Encoding)»" /&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcper">
+          <Comment>PervasiveSqlConnectionProvider: Pervasive</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=Pervasive;
+Server=«Field(MyServerAddress,ip or host)»;
+UID=«Field(MyUserName,UserName)»;
+PWD=«Field(MyPassword,Password)»;
+ServerDSN=«Field(MyDatabase,Database)»" /&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcora">
+          <Comment>OracleConnectionProvider: Oracle</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=Oracle;
+Data Source=«Field(TORCL,Data Source from TNS File)»;
+User ID=«Field(MyUserName,UserName)»;
+Password=«Field(MyPassword,Password)»" /&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcodpm">
+          <Comment>ODPManagedConnectionProvider: ODPManaged</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=ODPManaged;
+Data Source=«Field(TORCL,Data Source from TNS File)»;
+User ID=«Field(MyUserName,UserName)»;
+Password=«Field(MyPassword,Password)»" /&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcodp">
+          <Comment>ODPConnectionProvider: ODP</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=ODP;
+Data Source=«Field(TORCL,Data Source from TNS File)»;
+User ID=«Field(MyUserName,UserName)»;
+Password=«Field(MyPassword,Password)»" /&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcmys">
+          <Comment>MySqlConnectionProvider: MySql</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=MySql;
+Server=«Field(MyServerAddress,ip or address)»;
+User ID=«Field(MyUserName,Username)»;
+Database=«Field(MyDatabase,Database)»;
+Password=«Field(Password,Password)»;
+Persist Security Info=«Field(true,Persist Security Info)»;
+Charset=«Field(utf8,Charset)»"
+/&gt;«FinalTarget»
+
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcsqlce">
+          <Comment>MSSqlCEConnectionProvider: MSSqlServerCE</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=MSSqlServerCE;
+Data Source=«Field(MyDatabase.sdf,Data Source)»;
+Password=«Field(Password,Password)»"
+/&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcfb">
+          <Comment>FirebirdConnectionProvider: Firebird</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=Firebird;
+DataSource=«Field(localhost,Server Address)»;
+User=«Field(SYSDBA,UsarName)»;
+Password=«Field(masterkey,Password)»;
+Database=«Field(MyDatabase.fdb,Database)»;
+ServerType=«Field(0,ServerType)»;
+Charset=«Field(NONE,Charset)»"
+/&gt;«FinalTarget»
+
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcdb2">
+          <Comment>DB2ConnectionProvider: DB2</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=DB2;
+Server=«Field(MyAddress,Server Address)»:«Field(MyPort,Port)»;
+User ID=«Field(MyUserName,UsarName)»;
+Password=«Field(MyPassword,PassWord)»;
+Database=«Field(MyDatabase,Database)»;
+Persist Security Info=«Field(true,Persist Security Info)»"
+/&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcase">
+          <Comment>AseConnectionPrvider: Ase</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=Ase;
+Port=«Field(5000,port)»;
+Data Source=«Field(MyAseServer,Password)»;
+User ID=«Field(MyUserName,UserName)»;
+Password=«Field(MyPassword,Password)»;
+Initial Catalog=«Field(MyDatabase,Database)»;
+Persist Security Info=«Field(true,Persist Security Info)»"
+/&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcasa">
+          <Comment>AsaConnectionProvider: Asa</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=Asa;
+Uid=«Field(MyUsername,UserName)»;
+PWD=«Field(MyPassword,Password)»;
+DBF=«Field(c:\mydatabase.db,DBF Path)»;
+Persist Security Info=«Field(true,Persist Security Info)»"
+/&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcadv">
+          <Comment>AdvantageConnectionProvider: Advantage</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=Advantage;
+Data Source=«Field(\\myserver\myvolume\mypat\mydd.add,Data Source)»;
+ServerType=«Field(Local,ServerType)»;
+User ID=«Field(ASSSYS,User ID)»;
+TrimTrailingSpaces=«Field(true,TrimTrailingSpaces)»"
+/&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcmsql">
+          <Comment>MSSqlConnectionProvider: MSSqlServer</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=MSSqlServer;
+Data Source=«Field((local),Data Source)»;
+User ID=«Field(username,Database UserName)»;Password=«Field(password,Database Password)»;
+Initial Catalog=«Field(database,Database Name)»;Persist Security Info=«Field(true,)»"
+/&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcimd">
+          <Comment>InMemoryDataStore: InMemoryDataStore</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=InMemoryDataStore;
+Data Source=«Field(C:\database.xml,XML Path)»;
+Read Only=«Field(false,Read Only)»" /&gt;«FinalTarget»</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcds">
+          <Comment>DataSetDataStore: XmlDataSet</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=XmlDataSet;
+Data Source=«Field(C:\database.xml,XML Path)»;Read Only=false" /&gt;«FinalTarget»
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+        <Template Name="xcacc">
+          <Comment>AccessConnectionProvider: MSAccess</Comment>
+          <Expansion Priority="0">
+            <Body>&lt;add name="«BlockAnchor»«Field(ConnectionString,ConnectionString Name)»«Caret»" 
+connectionString="
+XpoProvider=MSAccess;
+Provider=Microsoft.Jet.OLEDB.4.0;
+Data Source=«Field(C:\database.mdb,Database Path)»;
+User Id=«Field(Admin,Database UserName)»;Password=«Field(,Database Password)»;
+" /&gt;«FinalTarget»
+
+</Body>
+            <Context />
+          </Expansion>
+        </Template>
+      </TemplateCategory>
+    </TemplateCategory>
+  </TemplateCategory>
+</XmlTemplateCategoryInfo>
