@@ -51,6 +51,7 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [Blazor](https://demos.devexpress.com/XAF/BlazorDemo/) - by DevExpress.
 
 ## Modules
+* [DevExpress Built in modules](https://docs.devexpress.com/eXpressAppFramework/112663/concepts/extra-modules) 
 * [Llamachant modules](https://community.devexpress.com/blogs/xaf/archive/2018/03/27/xaf-free-extra-modules-from-llamachant.aspx) 
 * [eXpandFramework](https://github.com/eXpandFramework/DevExpress.XAF) 
 * [SenDev XAF Dashboards](https://github.com/SenDevGmbH/SenDevXafDashboards) 
@@ -101,6 +102,12 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/XAF) - XAF questions feed on Stack Overflow.
 * [Twitter](https://twitter.com/hashtag/XAF) - Hashtag on Twitter.
 * [XAFers Weekly](http://xafersweekly.com/) - Weekly Newsletter.
+
+## Consulting
+* [DevExpress Official Page](https://www.devexpress.com/Products/NET/Application_Framework/#community) - You need to scroll up a bit
+* [BiTFrameworks](https://calendly.com/bitframeworks/bitframeworks-free-xaf-support-hour?month=2020-06) - Joche Ojeda -DevExpress MVP.
+* [Manuel Code and Consult](https://blog.delegate.at/about/) - Manuel Grundner - DevExpress MVP
+* [Llamachant](https://www.llamachant.com/) - LLamachant - Dave and Adam - DevExpress MVPs
 
 ## Other Languages
 * [Jose Javier Columbie Youtube Channel](https://www.youtube.com/channel/UCcdGHZn-LT6jloM6D10AZhA/search?query=spanish) - [Spanish] 
