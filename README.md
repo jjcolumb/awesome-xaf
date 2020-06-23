@@ -61,6 +61,8 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [DevExpress Youtube Channel](https://www.youtube.com/channel/UCtOjyugQSbxjQGuimGVsLVg) 
 * [Joche Ojeda Youtube Channel](https://www.youtube.com/channel/UC0fujupkyItCvJl5SeLd08Q) 
 * [Jose Javier Columbie Youtube Channel](https://www.youtube.com/channel/UCcdGHZn-LT6jloM6D10AZhA) 
+* [Building A CRM App Using XAF With Dave & Adam](https://www.llamachant.com/single-documents/video-building-a-crm-app-using-xaf-with-dave-adam/)
+
 
 ## Blogs
 * [DevExpress Blog](https://community.devexpress.com/tags/XAF/default.aspx) 
@@ -78,6 +80,7 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 
 ## Tooling
 * [CodeRush Snippets For Connection Strings](https://github.com/jjcolumb/awesome-xaf/blob/master/CSharp_XPO.xml)
+* [Llamachant Code Snippets](https://www.llamachant.com/resources/)
 
 ## Books
 * [Patterns of Enterprise Application Architecture](https://github.com/jjcolumb/awesome-xaf/blob/master/Patterns%20of%20Enterprise%20Application%20Architecture%20-%20Martin%20Fowler.pdf) - by Martin Fowler 
