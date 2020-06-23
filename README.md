@@ -1,5 +1,5 @@
 # Awesome XAF [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[<img src="https://adrientorris.github.io/wwwroot/images/blazor/logo-blazor.png" align="right" width="170">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
+[<img src="https://xafmarin.com/wp-content/uploads/2020/06/download.png" align="right" width="170">](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
 
 > A collection of awesome XAF resources.
 
@@ -11,10 +11,10 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Introduction](#introduction)
 * [General](#general)
 * [Sample Projects](#sample-projects)
-* [Tutorials](#tutorials)
-* [Modules](#libraries--extensions)
+* [Demos](#demos)
+* [Modules](#modules)
 * [Videos](#videos)
-* [Blogs](#articles)
+* [Blogs](#blogs)
 * [Podcasts](#podcasts)
 * [Presentations slides](#presentations-slides)
 * [Tooling](#tooling)
@@ -38,38 +38,43 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 
 
 ## Sample Projects
-### Authentication
-* [Documentation](https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework) - Official documentation, by DevExpress.
-### Cloud
-* [Documentation](https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework) - Official documentation, by DevExpress.
 
-### Logging
-* [Documentation](https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework) - Official documentation, by DevExpress.
-### Machine Learning
-* [Documentation](https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework) - Official documentation, by DevExpress.
+
+
 
 ### Mobile
-* [Documentation](https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework) - Official documentation, by DevExpress.
-### ToDos
-* [Documentation](https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework) - Official documentation, by DevExpress.
-### Others
-* [Documentation](https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework) - Official documentation, by DevExpress.
+* [XAF Mobile (Maintenance Mode) Tutorial](https://docs.devexpress.com/eXpressAppFramework/116359/getting-started/xaf-mobile-maintenance-mode-tutorial?v=18.2) - DevExpress Documentation.
 
-## Tutorials
-* [Documentation](https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework) - Official documentation, by DevExpress.
 
-## Libraries & Extensions
-### Components
-* [Documentation](https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework) - Official documentation, by DevExpress.
+## Demos
+* [Demos](https://www.devexpress.com/support/demos/#xaf) - Official documentation, by DevExpress.
+* [Blazor](https://demos.devexpress.com/XAF/BlazorDemo/) - Official documentation, by DevExpress.
+
+## Modules
+* [Llamachant modules](https://community.devexpress.com/blogs/xaf/archive/2018/03/27/xaf-free-extra-modules-from-llamachant.aspx) 
+* [eXpandFramework](https://github.com/eXpandFramework/DevExpress.XAF) 
+* [SenDev XAF Dashboards](https://github.com/SenDevGmbH/SenDevXafDashboards) 
+* [Ultra modules](https://github.com/egarim/Ultra) 
+
 
 ## Videos
-* [Documentation](https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework) - Official documentation, by DevExpress.
+* [DevExpress Youtube Channel](https://www.youtube.com/channel/UCtOjyugQSbxjQGuimGVsLVg) 
+* [Joche Ojeda Youtube Channel](https://www.youtube.com/channel/UC0fujupkyItCvJl5SeLd08Q) 
+* [Jose Javier Columbie Youtube Channel](https://www.youtube.com/channel/UCcdGHZn-LT6jloM6D10AZhA) 
+
+## Blogs
+* [DevExpress Blog](https://community.devexpress.com/tags/XAF/default.aspx) 
+* [Joche Ojeda Blog](https://www.jocheojeda.com/) 
+* [Manuel Grundner Blog](https://blog.delegate.at/tags/XAF/) 
+* [Jose Javier Columbie Blog](https://xafmarin.com/) 
+* [Dennis Old Blog](https://dennisgaravsky.blogspot.com/) 
   
 ## Podcasts
-* [Documentation](https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework) - Official documentation, by DevExpress.
+* [Framework Series: The eXpand Framework with Apostolis Bekiaris](https://hanselminutes.com/297/framework-series-the-expand-framework-with-apostolis-bekiaris) - THE HANSELMINUTES PODCAST.
+* [OLIVER STURM ON THE EXPRESS APPLICATION FRAMEWORK](http://www.craigmurphy.com/blog/?p=768&utm_campaign=Xafers%2BWeekly&utm_medium=web&utm_source=Xafers_Weekly_4) - DEVEXPRESS – TECHSUMMIT 2007.
 
 ## Presentations slides
-* [Documentation](https://docs.devexpress.com/eXpressAppFramework/112670/expressapp-framework) - Official documentation, by DevExpress.
+* [XPO Web API](https://github.com/jjcolumb/awesome-xaf/blob/master/Bit%20Xpo%20WebApi.pptx) - Slides from Community Standup.
 
 ## Tooling
 * [CodeRush Snippets For Connection Strings](https://github.com/jjcolumb/awesome-xaf/blob/master/CSharp_XPO.xml)
