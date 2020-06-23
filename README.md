@@ -5,7 +5,7 @@
 
 eXpressApp Framework (XAF) is a modern and powerful application framework allowing simultaneous ASP.NET, Blazor and WinForms development. Its modular design allows developers to choose from the built in modules, or create their own, to build applications faster and in a more robust manner than they do today.
 
-Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/jjcolumb/awesome-xaf/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/jjcolumb/awesome-xaf/graphs/contributors), you're awesome and wouldn't be possible without you!
+Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/jjcolumb/awesome-xaf/blob/master/CONTRIBUTING.md) pages first. Thanks to all future [contributors](https://github.com/jjcolumb/awesome-xaf/graphs/contributors), you're awesome and wouldn't be possible without you!
 
 ## Contents
 * [Introduction](#introduction)
@@ -47,8 +47,8 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 
 
 ## Demos
-* [Demos](https://www.devexpress.com/support/demos/#xaf) - Official documentation, by DevExpress.
-* [Blazor](https://demos.devexpress.com/XAF/BlazorDemo/) - Official documentation, by DevExpress.
+* [Demos](https://www.devexpress.com/support/demos/#xaf) - by DevExpress.
+* [Blazor](https://demos.devexpress.com/XAF/BlazorDemo/) - by DevExpress.
 
 ## Modules
 * [Llamachant modules](https://community.devexpress.com/blogs/xaf/archive/2018/03/27/xaf-free-extra-modules-from-llamachant.aspx) 
@@ -93,7 +93,7 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [Facebook](https://www.facebook.com/groups/xafxpoxamarin/) - Facebook Group.
 * [Meetup](https://www.meetup.com/Arizona-XAFers-User-Group/) - Arizona XAFers User Group.
 * [LinkedIn](https://www.linkedin.com/groups/2367509/) - LinkedIn Group.
-* [Stack Overflow](https://stackoverflow.com/questions/tagged/XAF) - Blazor questions feed on Stack Overflow.
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/XAF) - XAF questions feed on Stack Overflow.
 * [Twitter](https://twitter.com/hashtag/XAF) - Hashtag on Twitter.
 * [XAFers Weekly](http://xafersweekly.com/) - Weekly Newsletter.
 
