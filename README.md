@@ -29,7 +29,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 eXpressApp Framework (XAF) is a modern and powerful application framework allowing simultaneous ASP.NET, Blazor and WinForms development. Its modular design allows developers to choose from the built in modules, or create their own, to build applications faster and in a more robust manner than they do today. More information on the [official XAF website](https://www.devexpress.com/products/net/application_framework/).
 
-### Get started
+### Get Started
 
 To get started with XAF, follow the instructions in the [XAF Get Started](https://docs.devexpress.com/eXpressAppFramework/113577/getting-started) documentation.
 
@@ -41,11 +41,6 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 
 
 
-
-### Mobile
-* [XAF Mobile (Maintenance Mode) Tutorial](https://docs.devexpress.com/eXpressAppFramework/116359/getting-started/xaf-mobile-maintenance-mode-tutorial?v=18.2) - DevExpress Documentation.
-
-
 ## Demos
 * [Demos](https://www.devexpress.com/support/demos/#xaf) - by DevExpress.
 * [Blazor](https://demos.devexpress.com/XAF/BlazorDemo/) - by DevExpress.
@@ -53,9 +48,11 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 ## Modules
 * [DevExpress Built in modules](https://docs.devexpress.com/eXpressAppFramework/112663/concepts/extra-modules) 
 * [Llamachant modules](https://community.devexpress.com/blogs/xaf/archive/2018/03/27/xaf-free-extra-modules-from-llamachant.aspx) 
-* [eXpandFramework](https://github.com/eXpandFramework/DevExpress.XAF) 
+* [eXpand Framework](https://github.com/eXpandFramework/DevExpress.XAF) 
+* [XAFARI](https://galaktika-soft.com/xafari) 
 * [SenDev XAF Dashboards](https://github.com/SenDevGmbH/SenDevXafDashboards) 
 * [Ultra modules](https://github.com/egarim/Ultra) 
+
 
 
 ## Videos
@@ -78,7 +75,7 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [Framework Series: The eXpand Framework with Apostolis Bekiaris](https://hanselminutes.com/297/framework-series-the-expand-framework-with-apostolis-bekiaris) - THE HANSELMINUTES PODCAST.
 * [OLIVER STURM ON THE EXPRESS APPLICATION FRAMEWORK](http://www.craigmurphy.com/blog/?p=768&utm_campaign=Xafers%2BWeekly&utm_medium=web&utm_source=Xafers_Weekly_4) - DEVEXPRESS – TECHSUMMIT 2007.
 
-## Presentations slides
+## Presentations Slides
 * [XPO Web API](https://github.com/jjcolumb/awesome-xaf/blob/master/Bit%20Xpo%20WebApi.pptx) - Slides from Community Standup.
 
 ## Tooling
