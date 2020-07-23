@@ -100,6 +100,12 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [Twitter](https://twitter.com/hashtag/XAF) - Hashtag on Twitter.
 * [XAFers Weekly](http://xafersweekly.com/) - Weekly Newsletter.
 
+## Localization
+* [How to: Localize an XAF Application](https://docs.devexpress.com/eXpressAppFramework/113250/task-based-help/localization/how-to-localize-an-xaf-application) - Official Documentation
+* [Simple Localization Demo](https://www.youtube.com/watch?v=UElFv_VSh3w) - Youtube
+
+
+
 ## Consulting
 * [DevExpress Official Page](https://www.devexpress.com/Products/NET/Application_Framework/#community) - You need to scroll up a bit
 * [BiTFrameworks](https://calendly.com/bitframeworks/bitframeworks-free-xaf-support-hour?month=2020-06) - Joche Ojeda -DevExpress MVP.
