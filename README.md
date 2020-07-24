@@ -100,6 +100,12 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [Twitter](https://twitter.com/hashtag/XAF) - Hashtag on Twitter.
 * [XAFers Weekly](http://xafersweekly.com/) - Weekly Newsletter.
 
+##Testing
+* https://docs.devexpress.com/eXpressAppFramework/401829/concepts/debugging-testing-and-error-handling/unit-tests - Official Documentation.
+* https://docs.devexpress.com/eXpressAppFramework/113211/concepts/debugging-testing-and-error-handling/functional-tests-easy-test - Official Documentation.
+* https://blog.delegate.at/series/t-is-for-testing-xaf-xpo/ - Manuel Grundner - DevExpress MVP.
+* https://blog.delegate.at/2020/07/06/tasty-delicious-dotnet-testing.html - Manuel Grundner - DevExpress MVP.
+
 ## Consulting
 * [DevExpress Official Page](https://www.devexpress.com/Products/NET/Application_Framework/#community) - You need to scroll up a bit
 * [BiTFrameworks](https://calendly.com/bitframeworks/bitframeworks-free-xaf-support-hour?month=2020-06) - Joche Ojeda -DevExpress MVP.
