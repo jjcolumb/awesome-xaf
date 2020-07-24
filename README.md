@@ -106,6 +106,10 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * https://blog.delegate.at/series/t-is-for-testing-xaf-xpo/ - Manuel Grundner - DevExpress MVP.
 * https://blog.delegate.at/2020/07/06/tasty-delicious-dotnet-testing.html - Manuel Grundner - DevExpress MVP.
 
+## Localization
+* [How to: Localize an XAF Application](https://docs.devexpress.com/eXpressAppFramework/113250/task-based-help/localization/how-to-localize-an-xaf-application) - Official Documentation
+* [Simple Localization Demo](https://www.youtube.com/watch?v=UElFv_VSh3w) - Youtube
+
 ## Consulting
 * [DevExpress Official Page](https://www.devexpress.com/Products/NET/Application_Framework/#community) - You need to scroll up a bit
 * [BiTFrameworks](https://calendly.com/bitframeworks/bitframeworks-free-xaf-support-hour?month=2020-06) - Joche Ojeda -DevExpress MVP.
