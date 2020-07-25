@@ -102,10 +102,11 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [XAFers Weekly](http://xafersweekly.com/) - Weekly Newsletter.
 
 ## Testing
-*[T is for Testing](https://blog.delegate.at/series/t-is-for-testing-xaf-xpo/) - XAF & XPO | Code & Consult - Manuel Grundner - DevExpress MVPs
-*[Tasty](https://blog.delegate.at/2020/07/06/tasty-delicious-dotnet-testing.html) Tasty - Delicious dotnet testing  - Manuel Grundner - DevExpress MVPs
-*[DevExpress Unit Tests Documentation](https://docs.devexpress.com/eXpressAppFramework/401829/concepts/debugging-testing-and-error-handling/unit-tests)
-*[DevExpress Functional Test (EasyTest) Documentation](https://docs.devexpress.com/eXpressAppFramework/113211/concepts/debugging-testing-and-error-handling/functional-tests-easy-test)
+* [T is for Testing](https://blog.delegate.at/series/t-is-for-testing-xaf-xpo/) - XAF & XPO | Code & Consult - Manuel Grundner - DevExpress MVPs.
+* [Tasty](https://blog.delegate.at/2020/07/06/tasty-delicious-dotnet-testing.html) Tasty - Delicious dotnet testing  - Manuel Grundner - DevExpress MVPs.
+* [DevExpress Unit Tests Documentation](https://docs.devexpress.com/eXpressAppFramework/401829/concepts/debugging-testing-and-error-handling/unit-tests)
+* [DevExpress Functional Test (EasyTest) Documentation](https://docs.devexpress.com/eXpressAppFramework/113211/concepts/debugging-testing-and-error-handling/functional-tests-easy-test)
+
 ## Consulting
 * [DevExpress Official Page](https://www.devexpress.com/Products/NET/Application_Framework/#community) - You need to scroll up a bit
 * [BiTFrameworks](https://calendly.com/bitframeworks/bitframeworks-free-xaf-support-hour?month=2020-06) - Joche Ojeda -DevExpress MVP.
