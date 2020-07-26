@@ -101,10 +101,10 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [XAFers Weekly](http://xafersweekly.com/) - Weekly Newsletter.
 
 ## Testing
-* https://docs.devexpress.com/eXpressAppFramework/401829/concepts/debugging-testing-and-error-handling/unit-tests - Official Documentation.
-* https://docs.devexpress.com/eXpressAppFramework/113211/concepts/debugging-testing-and-error-handling/functional-tests-easy-test - Official Documentation.
-* https://blog.delegate.at/series/t-is-for-testing-xaf-xpo/ - Manuel Grundner - DevExpress MVP.
-* https://blog.delegate.at/2020/07/06/tasty-delicious-dotnet-testing.html - Manuel Grundner - DevExpress MVP.
+* [Unit Tests](https://docs.devexpress.com/eXpressAppFramework/401829/concepts/debugging-testing-and-error-handling/unit-tests) - Official Documentation.
+* [Easy Test](https://docs.devexpress.com/eXpressAppFramework/113211/concepts/debugging-testing-and-error-handling/functional-tests-easy-test) - Official Documentation.
+* [T is for Testing](https://blog.delegate.at/series/t-is-for-testing-xaf-xpo/) - Manuel Grundner - DevExpress MVP.
+* [Tasty, Delicious Dot Net Testing](https://blog.delegate.at/2020/07/06/tasty-delicious-dotnet-testing.html) - Manuel Grundner - DevExpress MVP.
 
 ## Localization
 * [How to: Localize an XAF Application](https://docs.devexpress.com/eXpressAppFramework/113250/task-based-help/localization/how-to-localize-an-xaf-application) - Official Documentation
