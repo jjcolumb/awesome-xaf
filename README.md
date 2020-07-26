@@ -21,7 +21,6 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Books](#books)
 * [Courses](#courses)
 * [Community](#community)
-* [Testing](#testing)
 * [Other Languages](#other-languages)
 
 ## Introduction
@@ -102,10 +101,14 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [XAFers Weekly](http://xafersweekly.com/) - Weekly Newsletter.
 
 ## Testing
-* [T is for Testing](https://blog.delegate.at/series/t-is-for-testing-xaf-xpo/) - XAF & XPO | Code & Consult - Manuel Grundner - DevExpress MVPs.
-* [Tasty](https://blog.delegate.at/2020/07/06/tasty-delicious-dotnet-testing.html) - Tasty - Delicious dotnet testing  - Manuel Grundner - DevExpress MVPs.
-* [DevExpress Unit Tests Documentation](https://docs.devexpress.com/eXpressAppFramework/401829/concepts/debugging-testing-and-error-handling/unit-tests)
-* [DevExpress Functional Test (EasyTest) Documentation](https://docs.devexpress.com/eXpressAppFramework/113211/concepts/debugging-testing-and-error-handling/functional-tests-easy-test)
+* https://docs.devexpress.com/eXpressAppFramework/401829/concepts/debugging-testing-and-error-handling/unit-tests - Official Documentation.
+* https://docs.devexpress.com/eXpressAppFramework/113211/concepts/debugging-testing-and-error-handling/functional-tests-easy-test - Official Documentation.
+* https://blog.delegate.at/series/t-is-for-testing-xaf-xpo/ - Manuel Grundner - DevExpress MVP.
+* https://blog.delegate.at/2020/07/06/tasty-delicious-dotnet-testing.html - Manuel Grundner - DevExpress MVP.
+
+## Localization
+* [How to: Localize an XAF Application](https://docs.devexpress.com/eXpressAppFramework/113250/task-based-help/localization/how-to-localize-an-xaf-application) - Official Documentation
+* [Simple Localization Demo](https://www.youtube.com/watch?v=UElFv_VSh3w) - Youtube
 
 ## Consulting
 * [DevExpress Official Page](https://www.devexpress.com/Products/NET/Application_Framework/#community) - You need to scroll up a bit
