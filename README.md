@@ -38,8 +38,34 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 
 
 ## Sample Projects
+* [Sample Proyects](https://github.com/DevExpress-Examples)-Official Sample Proyects, by DevExpress.
 
-
+## How Tos
+[How to measure and improve performance](https://supportcenter.devexpress.com/ticket/details/t148978/how-to-measure-and-improve-application-performance)-by Manuel Grundner
+[How to create a correct connection string for XPO providers](https://supportcenter.devexpress.com/ticket/details/k18445/how-to-create-a-correct-connection-string-for-xpo-providers)-by DevExpress
+[Ways to Show a View](https://docs.devexpress.com/eXpressAppFramework/112803/concepts/ui-construction/views/ways-to-show-a-view)-by DevExpress
+[How to: Display Several Views Side-by-Side](https://docs.devexpress.com/eXpressAppFramework/113296/task-based-help/views/how-to-display-several-views-side-by-side)-by DevExpress
+[How to: Create a Business Model in the XPO Data Model Designer](https://docs.devexpress.com/eXpressAppFramework/113450/task-based-help/business-model-design/express-persistent-objects-xpo/how-to-create-a-business-model-in-the-xpo-data-model-designer)-by DevExpress
+[How to: Create a Custom WinForms Ribbon Template](https://docs.devexpress.com/eXpressAppFramework/112618/task-based-help/templates/how-to-create-a-custom-winforms-ribbon-template)-by DevExpress
+[How to: Customize an ASP.NET Template](https://docs.devexpress.com/eXpressAppFramework/113460/task-based-help/templates/how-to-customize-an-asp-net-template)-by DevExpress
+[How to: Distribute Custom Templates with Modules](https://docs.devexpress.com/eXpressAppFramework/113047/task-based-help/templates/how-to-distribute-custom-templates-with-modules)-by DevExpress
+[How to: Use Custom Themes in ASP.NET Applications](https://docs.devexpress.com/eXpressAppFramework/113449/task-based-help/miscellaneous-ui-customizations/how-to-use-custom-themes-in-asp-net-applications)-by DevExpress
+[How to: Show a Custom Window with an Embedded XAF View](https://docs.devexpress.com/eXpressAppFramework/118165/task-based-help/miscellaneous-ui-customizations/how-to-show-a-custom-window-with-an-embedded-xaf-view)-by DevExpress
+[Ways to Access UI Elements and Their Controls](https://docs.devexpress.com/eXpressAppFramework/120092/concepts/ui-construction/ways-to-access-ui-elements-and-their-controls)
+[Customization Form](https://docs.devexpress.com/WindowsForms/2173/controls-and-libraries/form-layout-managers/layout-and-data-layout-controls/design-time-and-runtime-customization/customization-form)-by DevExpress
+[How to: Customize the Application UI and Behavior](https://docs.devexpress.com/eXpressAppFramework/113587/getting-started/basic-tutorial/customize-the-application-ui-and-behavior)
+[View Items Layout Customization](https://docs.devexpress.com/eXpressAppFramework/112817/concepts/ui-construction/view-items/view-items-layout-customization)-by DevExpress
+[Generating Persistent Objects for Existing Data Tables](https://docs.devexpress.com/XPO/3334/create-a-data-model/generating-persistent-objects-for-existing-data-tables)-by DevExpress
+[How to: Create a Predefined Dashboard and Add it to the Navigation](https://docs.devexpress.com/eXpressAppFramework/117453/concepts/extra-modules/dashboards/create-a-predefined-dashboard-and-add-it-to-the-navigation)-by DevExpress
+[How to: Access the WinForms Dashboard Designer](https://docs.devexpress.com/eXpressAppFramework/117716/task-based-help/dashboards/how-to-access-the-winforms-dashboard-designer)-by DevExpress
+[How to: Establish a connection to a PostgreSQL database from the Dashboard Designer](https://docs.devexpress.com/Dashboard/113922/winforms-designer/create-dashboards-in-the-winforms-designer/providing-data/sql-data-source/connecting-to-sql-databases/postgresql)-by DevExpress
+[How to: Display a List View as a Chart](https://docs.devexpress.com/eXpressAppFramework/113314/task-based-help/views/how-to-display-a-list-view-as-a-chart)-by DevExpress
+[How to: Use Map Control](https://docs.devexpress.com/WindowsForms/16711/controls-and-libraries/map-control/gis-data/search)-by DevExpress
+[How to: Build Criterias](https://docs.devexpress.com/eXpressAppFramework/113052/concepts/filtering/ways-to-build-criteria)-by DevExpress
+[How to: Implement Cascading Filtering for Lookup List Views](https://docs.devexpress.com/eXpressAppFramework/112681/task-based-help/filtering/how-to-implement-cascading-filtering-for-lookup-list-views)-by DevExpress
+[How to: Get the Current User in Code](https://docs.devexpress.com/eXpressAppFramework/113152/task-based-help/security/how-to-get-the-current-user-in-code)-by DevExpress
+[How to: Implement Custom Security Objects(Users, Roles, Operation Permissions)](https://docs.devexpress.com/eXpressAppFramework/113384/task-based-help/security/how-to-implement-custom-security-objects-users-roles-operation-permissions)-by DevExpress
+[How to: Implement a Custom Security System User Based on an Existing Business Class](https://docs.devexpress.com/eXpressAppFramework/113452/task-based-help/security/how-to-implement-a-custom-security-system-user-based-on-an-existing-business-class)-by DevExpress
 
 ## Demos
 * [Demos](https://www.devexpress.com/support/demos/#xaf) - by DevExpress.
