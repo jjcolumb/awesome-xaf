@@ -22,6 +22,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Courses](#courses)
 * [Community](#community)
 * [Other Languages](#other-languages)
+* [Frequently Asked Questions (FAQ)] (#Frequently-Asked-Questions)
 
 ## Introduction
 
@@ -119,6 +120,9 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 ## Other Languages
 * [Jose Javier Columbie Youtube Channel](https://www.youtube.com/channel/UCcdGHZn-LT6jloM6D10AZhA/search?query=spanish) - [Spanish] 
 * [Joche Ojeda Youtube Channel](https://www.youtube.com/channel/UC0fujupkyItCvJl5SeLd08Q/search?query=espanol) - [Spanish] 
+
+## Frequently Asked Questions (FAQ)
+
 
 ## Jobs
 * [XAFers Jobs](https://www.xafers.jobs/) 
