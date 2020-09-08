@@ -23,6 +23,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Community](#community)
 * [Other Languages](#other-languages)
 * [Deployment Tutorial](#deployment-tutorial)
+* [How Tos](#how-tos)
 * [Frequently Asked Questions (FAQ)](#frequently-asked-questions)
 
 
@@ -131,37 +132,44 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 
 # How Tos
 ## Performance
-* [How to measure and improve performance](https://supportcenter.devexpress.com/ticket/details/t148978/how-to-measure-and-improve-application-performance)-by DevExpress.
+* [How to: measure and improve performance](https://supportcenter.devexpress.com/ticket/details/t148978/how-to-measure-and-improve-application-performance)-by DevExpress.
 
 ## XPO
-* [How to create a correct connection string for XPO providers](https://supportcenter.devexpress.com/ticket/details/k18445/how-to-create-a-correct-connection-string-for-xpo-providers)-by DevExpress.
+* [How to: create a correct connection string for XPO providers](https://supportcenter.devexpress.com/ticket/details/k18445/how-to-create-a-correct-connection-string-for-xpo-providers)-by DevExpress.
 * [How to: Create a Business Model in the XPO Data Model Designer](https://docs.devexpress.com/eXpressAppFramework/113450/task-based-help/business-model-design/express-persistent-objects-xpo/how-to-create-a-business-model-in-the-xpo-data-model-designer)-by DevExpress.
 * [Generating Persistent Objects for Existing Data Tables](https://docs.devexpress.com/XPO/3334/create-a-data-model/generating-persistent-objects-for-existing-data-tables)-by DevExpress.
+* [How to: customize an XPO business model at runtime](https://supportcenter.devexpress.com/ticket/details/e250/how-to-customize-an-xpo-business-model-at-runtime-example)-by DevExpress.
+* [How to: generate a sequential and user-friendly identifier field within an XPO business class](https://supportcenter.devexpress.com/ticket/details/e4904/how-to-generate-a-sequential-and-user-friendly-identifier-field-within-an-xpo-business)-by DevExpress.
 
 ## UI
 * [Ways to Show a View](https://docs.devexpress.com/eXpressAppFramework/112803/concepts/ui-construction/views/ways-to-show-a-view)-by DevExpress.
 * [How to: Display Several Views Side-by-Side](https://docs.devexpress.com/eXpressAppFramework/113296/task-based-help/views/how-to-display-several-views-side-by-side)-by DevExpress.
-* [Ways to Access UI Elements and Their Controls](https://docs.devexpress.com/eXpressAppFramework/120092/concepts/ui-construction/ways-to-access-ui-elements-and-their-controls)-by DevExpress.
+* [Ways to: Access UI Elements and Their Controls](https://docs.devexpress.com/eXpressAppFramework/120092/concepts/ui-construction/ways-to-access-ui-elements-and-their-controls)-by DevExpress.
 * [How to: Customize the Application UI and Behavior](https://docs.devexpress.com/eXpressAppFramework/113587/getting-started/basic-tutorial/customize-the-application-ui-and-behavior)-by DevExpress.
 * [View Items Layout Customization](https://docs.devexpress.com/eXpressAppFramework/112817/concepts/ui-construction/view-items/view-items-layout-customization)-by DevExpress.
-* [How to determine the View, from which another view is shown](https://supportcenter.devexpress.com/ticket/details/e1319/how-to-determine-the-view-from-which-another-view-is-shown)
+* [How to: determine the View, from which another view is shown](https://supportcenter.devexpress.com/ticket/details/e1319/how-to-determine-the-view-from-which-another-view-is-shown)-by DevExpress.
+* [How to: access a nested ListView from the parent DetailView's controller and vice versa](https://supportcenter.devexpress.com/ticket/details/e3977/how-to-access-a-nested-listview-from-the-parent-detailview-s-controller-and-vice-versa)-by DevExpress.
+* [How to: Adjust the size of pop up dialogs](https://supportcenter.devexpress.com/ticket/details/e4208/how-to-adjust-the-size-of-pop-up-dialogs)-by DevExpress.
 
 ## BI
 * [How to: Create a Predefined Dashboard and Add it to the Navigation](https://docs.devexpress.com/eXpressAppFramework/117453/concepts/extra-modules/dashboards/create-a-predefined-dashboard-and-add-it-to-the-navigation)-by DevExpress.
 * [How to: Establish a connection to a PostgreSQL database from the Dashboard Designer](https://docs.devexpress.com/Dashboard/113922/winforms-designer/create-dashboards-in-the-winforms-designer/providing-data/sql-data-source/connecting-to-sql-databases/postgresql)-by DevExpress.
 * [How to: Display a List View as a Chart](https://docs.devexpress.com/eXpressAppFramework/113314/task-based-help/views/how-to-display-a-list-view-as-a-chart)-by DevExpress.
 * [How to: merge reports in XAF](https://supportcenter.devexpress.com/ticket/details/e4224/how-to-merge-reports-in-xaf)-by DevExpress.
-* [How to create a recurring appointment via code](https://supportcenter.devexpress.com/ticket/details/e1283/how-to-create-a-recurring-appointment-via-code)
+* [How to: create a recurring appointment via code](https://supportcenter.devexpress.com/ticket/details/e1283/how-to-create-a-recurring-appointment-via-code)-by DevExpress.
 
 ## Filtering
 * [How to: Build Criterias](https://docs.devexpress.com/eXpressAppFramework/113052/concepts/filtering/ways-to-build-criteria)-by DevExpress.
 * [How to: Implement Cascading Filtering for Lookup List Views](https://docs.devexpress.com/eXpressAppFramework/112681/task-based-help/filtering/how-to-implement-cascading-filtering-for-lookup-list-views)-by DevExpress.
+* [How to: display detail collections with descendants filtered by an object type](https://supportcenter.devexpress.com/ticket/details/e975/how-to-display-detail-collections-with-descendants-filtered-by-an-object-type)-by DevExpress.
+* [How to: search for objects by using all the properties or by using more complex criteria](https://supportcenter.devexpress.com/ticket/details/e1744/how-to-search-for-objects-by-using-all-the-properties-or-by-using-more-complex-criteria)-by DevExpress.
 
 ## Security
 * [How to: Implement Custom Security Objects(Users, Roles, Operation Permissions)](https://docs.devexpress.com/eXpressAppFramework/113384/task-based-help/security/how-to-implement-custom-security-objects-users-roles-operation-permissions)-by DevExpress.
 * [How to: Implement a Custom Security System User Based on an Existing Business Class](https://docs.devexpress.com/eXpressAppFramework/113452/task-based-help/security/how-to-implement-a-custom-security-system-user-based-on-an-existing-business-class)-by DevExpress.
-* [How to: hide navigation items based on the current user](https://supportcenter.devexpress.com/ticket/details/e380/how-to-hide-navigation-items-based-on-the-current-user)
+* [How to: hide navigation items based on the current user](https://supportcenter.devexpress.com/ticket/details/e380/how-to-hide-navigation-items-based-on-the-current-user)-by DevExpress.
 * [How to: Get the Current User in Code](https://docs.devexpress.com/eXpressAppFramework/113152/task-based-help/security/how-to-get-the-current-user-in-code)-by DevExpress.
+* [How to: generate database updater code for security roles created via the application UI in a development environment](https://supportcenter.devexpress.com/ticket/details/t868197/how-to-generate-database-updater-code-for-security-roles-created-via-the-application-ui)-by DevExpress.
 
 ## Windows
 * [How to: Create a Custom WinForms Ribbon Template](https://docs.devexpress.com/eXpressAppFramework/112618/task-based-help/templates/how-to-create-a-custom-winforms-ribbon-template)-by DevExpress.
@@ -170,17 +178,24 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [Customization Form](https://docs.devexpress.com/WindowsForms/2173/controls-and-libraries/form-layout-managers/layout-and-data-layout-controls/design-time-and-runtime-customization/customization-form)-by DevExpress.
 * [How to: Access the WinForms Dashboard Designer](https://docs.devexpress.com/eXpressAppFramework/117716/task-based-help/dashboards/how-to-access-the-winforms-dashboard-designer)-by DevExpress.
 * [How to: Use Map Control](https://docs.devexpress.com/WindowsForms/16711/controls-and-libraries/map-control/gis-data/search)-by DevExpress.
-* [How to Use the Gantt Control to Display a List of Tasks in XAF WinForms Apps](https://supportcenter.devexpress.com/ticket/details/t885407/how-to-use-the-gantt-control-to-display-a-list-of-tasks-in-xaf-winforms-apps)
+* [How to: Use the Gantt Control to Display a List of Tasks in XAF WinForms Apps](https://supportcenter.devexpress.com/ticket/details/t885407/how-to-use-the-gantt-control-to-display-a-list-of-tasks-in-xaf-winforms-apps)-by DevExpress.
+* [How to: use a custom Lookup Property Editor control for reference properties in WinForms](https://supportcenter.devexpress.com/ticket/details/e1101/how-to-use-a-custom-lookup-property-editor-control-for-reference-properties-in-winforms)-by DevExpress.
+* [How to: integrate Snap reports in XAF WinForms](https://supportcenter.devexpress.com/ticket/details/t164798/how-to-integrate-snap-reports-in-xaf-winforms)-by DevExpress.
 
 ## Web
 * [How to: Customize an ASP.NET Template](https://docs.devexpress.com/eXpressAppFramework/113460/task-based-help/templates/how-to-customize-an-asp-net-template)-by DevExpress.
 * [How to: Use Custom Themes in ASP.NET Applications](https://docs.devexpress.com/eXpressAppFramework/113449/task-based-help/miscellaneous-ui-customizations/how-to-use-custom-themes-in-asp-net-applications)-by DevExpress.
-* [How to: Use Google, Facebook and Microsoft accounts in ASP.NET XAF applications (OAuth2 demo)](https://supportcenter.devexpress.com/ticket/details/t535280/how-to-use-google-facebook-and-microsoft-accounts-in-asp-net-xaf-applications-oauth2-demo)
+* [How to: Use Google, Facebook and Microsoft accounts in ASP.NET XAF applications (OAuth2 demo)](https://supportcenter.devexpress.com/ticket/details/t535280/how-to-use-google-facebook-and-microsoft-accounts-in-asp-net-xaf-applications-oauth2-demo)-by DevExpress.
 
 ## Business Model Design
-* [How to edit Non-Persistent Objects nested in a Persistent Object](https://supportcenter.devexpress.com/ticket/details/t919644/how-to-edit-non-persistent-objects-nested-in-a-persistent-object)
-* [How to edit a collection of Persistent Objects linked to a Non-Persistent Object](https://supportcenter.devexpress.com/ticket/details/t888962/how-to-edit-a-collection-of-persistent-objects-linked-to-a-non-persistent-object)
+* [How to: edit Non-Persistent Objects nested in a Persistent Object](https://supportcenter.devexpress.com/ticket/details/t919644/how-to-edit-non-persistent-objects-nested-in-a-persistent-object)-by DevExpress.
+* [How to: edit a collection of Persistent Objects linked to a Non-Persistent Object](https://supportcenter.devexpress.com/ticket/details/t888962/how-to-edit-a-collection-of-persistent-objects-linked-to-a-non-persistent-object)-by DevExpress.
+* [How to: represent a collection property using a checked list box](https://supportcenter.devexpress.com/ticket/details/e1807/how-to-represent-a-collection-property-using-a-checked-list-box)-by DevExpress.
+* [How to: add a custom button into LookupPropertyEditor to edit the currently selected record](https://supportcenter.devexpress.com/ticket/details/e774/how-to-add-a-custom-button-into-lookuppropertyeditor-to-edit-the-currently-selected-record)-by DevExpress.
+* [How to: represent an enumeration property via a drop-down box with check boxes](https://supportcenter.devexpress.com/ticket/details/e689/how-to-represent-an-enumeration-property-via-a-drop-down-box-with-check-boxes)-by DevExpress.
 
+##Actions
+* [How to: create a custom action type with a custom control (BarCheckItem), associated with it](https://supportcenter.devexpress.com/ticket/details/e1977/how-to-create-a-custom-action-type-with-a-custom-control-barcheckitem-associated-with-it)-by DevExpress.
 
 # Frequently Asked Questions
 
