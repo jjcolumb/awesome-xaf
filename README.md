@@ -129,8 +129,8 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 ## Deployment Tutorial
 * [How to deploy an XAF application in a production environment.](https://docs.devexpress.com/eXpressAppFramework/113231/deployment/deployment-tutorial)
 
-## How Tos
-# Agnostic
+# How Tos
+## Agnostic
 * [How to measure and improve performance](https://supportcenter.devexpress.com/ticket/details/t148978/how-to-measure-and-improve-application-performance)-by DevExpress.
 * [How to create a correct connection string for XPO providers](https://supportcenter.devexpress.com/ticket/details/k18445/how-to-create-a-correct-connection-string-for-xpo-providers)-by DevExpress.
 * [Ways to Show a View](https://docs.devexpress.com/eXpressAppFramework/112803/concepts/ui-construction/views/ways-to-show-a-view)-by DevExpress.
