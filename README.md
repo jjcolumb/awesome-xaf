@@ -194,7 +194,7 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to: add a custom button into LookupPropertyEditor to edit the currently selected record](https://supportcenter.devexpress.com/ticket/details/e774/how-to-add-a-custom-button-into-lookuppropertyeditor-to-edit-the-currently-selected-record)-by DevExpress.
 * [How to: represent an enumeration property via a drop-down box with check boxes](https://supportcenter.devexpress.com/ticket/details/e689/how-to-represent-an-enumeration-property-via-a-drop-down-box-with-check-boxes)-by DevExpress.
 
-##Actions
+## Actions
 * [How to: create a custom action type with a custom control (BarCheckItem), associated with it](https://supportcenter.devexpress.com/ticket/details/e1977/how-to-create-a-custom-action-type-with-a-custom-control-barcheckitem-associated-with-it)-by DevExpress.
 
 # Frequently Asked Questions
