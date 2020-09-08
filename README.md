@@ -121,8 +121,8 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [Jose Javier Columbie Youtube Channel](https://www.youtube.com/channel/UCcdGHZn-LT6jloM6D10AZhA/search?query=spanish) - [Spanish] 
 * [Joche Ojeda Youtube Channel](https://www.youtube.com/channel/UC0fujupkyItCvJl5SeLd08Q/search?query=espanol) - [Spanish] 
 
-## Frequently Asked Questions (FAQ)
-
+## Frequently Asked Questions
+* [How to: Implement Cascading Filtering for Lookup List Views](https://docs.devexpress.com/eXpressAppFramework/112681/task-based-help/filtering/how-to-implement-cascading-filtering-for-lookup-list-views)
 
 ## Jobs
 * [XAFers Jobs](https://www.xafers.jobs/) 
