@@ -23,6 +23,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Community](#community)
 * [Other Languages](#other-languages)
 * [Deployment Tutorial](#deployment-tutorial)
+* [How Tos](#how-tos)
 * [Frequently Asked Questions (FAQ)](#frequently-asked-questions)
 
 
@@ -66,6 +67,21 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [Jose Javier Columbie Youtube Channel](https://www.youtube.com/channel/UCcdGHZn-LT6jloM6D10AZhA) 
 * [Building A CRM App Using XAF With Dave & Adam](https://www.llamachant.com/single-documents/video-building-a-crm-app-using-xaf-with-dave-adam/)
 
+### Videos XAF Modules API of the Week
+* [AuditTrail and Business Class Library Customization.](https://youtu.be/tyL57lOWBKI?list=PLpXYoGWvPdNs3qNCjjT3Ap0k1c6YcoNrJ)
+* [Clone Object](https://youtu.be/REDRphKQsSg?list=PLpXYoGWvPdNs3qNCjjT3Ap0k1c6YcoNrJ)
+* [Conditional Appearance](https://youtu.be/5iDKmTh7Un4?list=PLpXYoGWvPdNs3qNCjjT3Ap0k1c6YcoNrJ)
+* [Dashboards](https://youtu.be/RW0wB5xdNS4?list=PLpXYoGWvPdNs3qNCjjT3Ap0k1c6YcoNrJ)
+* [File Attachments](https://youtu.be/VviGGfOOjeY?list=PLpXYoGWvPdNs3qNCjjT3Ap0k1c6YcoNrJ)
+* [Charts](https://youtu.be/jBZWZYIwjkk?list=PLpXYoGWvPdNs3qNCjjT3Ap0k1c6YcoNrJ)
+* [AutoCommit, CloneMemberValue, CloneModelView, MasterDetail and OneView](https://youtu.be/hGMgKjyRSm8?list=PLpXYoGWvPdNs3qNCjjT3Ap0k1c6YcoNrJ)
+
+### XAFers Community Standup
+* [April 9th 2020 - First Meeting](https://youtu.be/oKWMANecAjc?list=PLpXYoGWvPdNs9s5jbA7A1hqAq9jYVnxTB)
+* [May 14th 2020 - Blazor](https://youtu.be/WhBPjmSX8ZA?list=PLpXYoGWvPdNs9s5jbA7A1hqAq9jYVnxTB)
+* [June 11th 2020 - Live QnA](https://youtu.be/8CbuEwsiYTQ?list=PLpXYoGWvPdNs9s5jbA7A1hqAq9jYVnxTB)
+* [July 9th 2020 - Best Practices](https://youtu.be/VSeuxJ4doJo?list=PLpXYoGWvPdNs9s5jbA7A1hqAq9jYVnxTB)
+* [ August 13th 2020 - Testing and DevOps](https://youtu.be/_HdH92EHd3U?list=PLpXYoGWvPdNs9s5jbA7A1hqAq9jYVnxTB)
 
 ## Blogs
 * [DevExpress Blog](https://community.devexpress.com/tags/XAF/default.aspx) 
@@ -151,6 +167,9 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to determine the View, from which another view is shown](https://supportcenter.devexpress.com/ticket/details/e1319/how-to-determine-the-view-from-which-another-view-is-shown)
 * [How to Apply Conditional Appearance](https://supportcenter.devexpress.com/ticket/details/e3595/how-to-apply-conditional-appearance)
 * [How to: Implement a Custom Messaging Class](https://supportcenter.devexpress.com/ticket/details/e1527/how-to-implement-a-custom-messaging-class)
+* [How to: access a nested ListView from the parent DetailView's controller and vice versa](https://supportcenter.devexpress.com/ticket/details/e3977/how-to-access-a-nested-listview-from-the-parent-detailview-s-controller-and-vice-versa)-by DevExpress.
+* [How to: Adjust the size of pop up dialogs](https://supportcenter.devexpress.com/ticket/details/e4208/how-to-adjust-the-size-of-pop-up-dialogs)-by DevExpress.
+
 ## BI
 * [How to: Create a Predefined Dashboard and Add it to the Navigation](https://docs.devexpress.com/eXpressAppFramework/117453/concepts/extra-modules/dashboards/create-a-predefined-dashboard-and-add-it-to-the-navigation)-by DevExpress.
 * [How to: Establish a connection to a PostgreSQL database from the Dashboard Designer](https://docs.devexpress.com/Dashboard/113922/winforms-designer/create-dashboards-in-the-winforms-designer/providing-data/sql-data-source/connecting-to-sql-databases/postgresql)-by DevExpress.
@@ -179,6 +198,8 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to: Use Map Control](https://docs.devexpress.com/WindowsForms/16711/controls-and-libraries/map-control/gis-data/search)-by DevExpress.
 * [How to Use the Gantt Control to Display a List of Tasks in XAF WinForms Apps](https://supportcenter.devexpress.com/ticket/details/t885407/how-to-use-the-gantt-control-to-display-a-list-of-tasks-in-xaf-winforms-apps)
 * [How to: Use a Custom Form as a Splash Screen](https://supportcenter.devexpress.com/ticket/details/e4646/how-to-use-a-custom-form-as-a-splash-screen)
+* [How to: use a custom Lookup Property Editor control for reference properties in WinForms](https://supportcenter.devexpress.com/ticket/details/e1101/how-to-use-a-custom-lookup-property-editor-control-for-reference-properties-in-winforms)-by DevExpress.
+* [How to: integrate Snap reports in XAF WinForms](https://supportcenter.devexpress.com/ticket/details/t164798/how-to-integrate-snap-reports-in-xaf-winforms)-by DevExpress.
 
 ## Web
 * [How to: Customize an ASP.NET Template](https://docs.devexpress.com/eXpressAppFramework/113460/task-based-help/templates/how-to-customize-an-asp-net-template)-by DevExpress.
@@ -190,6 +211,10 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to edit a collection of Persistent Objects linked to a Non-Persistent Object](https://supportcenter.devexpress.com/ticket/details/t888962/how-to-edit-a-collection-of-persistent-objects-linked-to-a-non-persistent-object)
 * [How to: Access Business Class Metadata](https://supportcenter.devexpress.com/ticket/details/e1649/how-to-access-business-class-metadata)
 * [How to Access the Master Object from the Nested List View](https://supportcenter.devexpress.com/ticket/details/e950/how-to-access-the-master-object-from-the-nested-list-view)
+* [How to: represent a collection property using a checked list box](https://supportcenter.devexpress.com/ticket/details/e1807/how-to-represent-a-collection-property-using-a-checked-list-box)-by DevExpress.
+* [How to: add a custom button into LookupPropertyEditor to edit the currently selected record](https://supportcenter.devexpress.com/ticket/details/e774/how-to-add-a-custom-button-into-lookuppropertyeditor-to-edit-the-currently-selected-record)-by DevExpress.
+* [How to: represent an enumeration property via a drop-down box with check boxes](https://supportcenter.devexpress.com/ticket/details/e689/how-to-represent-an-enumeration-property-via-a-drop-down-box-with-check-boxes)-by DevExpress.
+
 # Frequently Asked Questions
 
 ## Security
