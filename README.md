@@ -149,7 +149,7 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to: Implement Custom Security Objects(Users, Roles, Operation Permissions)](https://docs.devexpress.com/eXpressAppFramework/113384/task-based-help/security/how-to-implement-custom-security-objects-users-roles-operation-permissions)-by DevExpress.
 * [How to: Implement a Custom Security System User Based on an Existing Business Class](https://docs.devexpress.com/eXpressAppFramework/113452/task-based-help/security/how-to-implement-a-custom-security-system-user-based-on-an-existing-business-class)-by DevExpress.
 
-* [Windows]
+## Windows
 * [How to: Create a Custom WinForms Ribbon Template](https://docs.devexpress.com/eXpressAppFramework/112618/task-based-help/templates/how-to-create-a-custom-winforms-ribbon-template)-by DevExpress.
 * [How to: Distribute Custom Templates with Modules](https://docs.devexpress.com/eXpressAppFramework/113047/task-based-help/templates/how-to-distribute-custom-templates-with-modules)-by DevExpress.
 * [How to: Show a Custom Window with an Embedded XAF View](https://docs.devexpress.com/eXpressAppFramework/118165/task-based-help/miscellaneous-ui-customizations/how-to-show-a-custom-window-with-an-embedded-xaf-view)-by DevExpress.
@@ -157,7 +157,7 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to: Access the WinForms Dashboard Designer](https://docs.devexpress.com/eXpressAppFramework/117716/task-based-help/dashboards/how-to-access-the-winforms-dashboard-designer)-by DevExpress.
 * [How to: Use Map Control](https://docs.devexpress.com/WindowsForms/16711/controls-and-libraries/map-control/gis-data/search)-by DevExpress.
 
-* [Web]
+## Web
 * [How to: Customize an ASP.NET Template](https://docs.devexpress.com/eXpressAppFramework/113460/task-based-help/templates/how-to-customize-an-asp-net-template)-by DevExpress.
 * [How to: Use Custom Themes in ASP.NET Applications](https://docs.devexpress.com/eXpressAppFramework/113449/task-based-help/miscellaneous-ui-customizations/how-to-use-custom-themes-in-asp-net-applications)-by DevExpress.
 
