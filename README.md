@@ -22,7 +22,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Courses](#courses)
 * [Community](#community)
 * [Other Languages](#other-languages)
-* [Frequently Asked Questions (FAQ)] (#Frequently-Asked-Questions)
+* [Frequently Asked Questions] (#frequently-asked-questions)
 
 ## Introduction
 
