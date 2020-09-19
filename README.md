@@ -161,6 +161,16 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to: Connect different XPO data models to several databases within a single application](https://supportcenter.devexpress.com/ticket/details/e4896/how-to-connect-different-xpo-data-models-to-several-databases-within-a-single-application)-by DevExpress.
 * [How to: Change connection to the database at runtime](https://supportcenter.devexpress.com/ticket/details/e1344/how-to-change-connection-to-the-database-at-runtime)-by DevExpress.
 * [How to: Store file attachments in the file system instead of the database (XPO)](https://supportcenter.devexpress.com/ticket/details/e965/how-to-store-file-attachments-in-the-file-system-instead-of-the-database-xpo)-by DevExpress.
+* [How to establish association from one class to many classes](https://supportcenter.devexpress.com/ticket/details/e463/how-to-establish-association-from-one-class-to-many-classes)
+* [How to: Initialize Business Objects with Default Property Values in XPO](https://supportcenter.devexpress.com/ticket/details/e2053/how-to-initialize-business-objects-with-default-property-values-in-xpo)
+* [How to enable delayed loading of images in XPO](https://supportcenter.devexpress.com/ticket/details/t162404/how-to-enable-delayed-loading-of-images-in-xpo)
+* [How to: Use both Entity Framework and XPO in a Single Application](https://supportcenter.devexpress.com/ticket/details/e4543/how-to-use-both-entity-framework-and-xpo-in-a-single-application)
+
+##Entity Framework
+* [How to: Initialize Business Objects with Default Property Values in Entity Framework](https://supportcenter.devexpress.com/ticket/details/t209960/how-to-initialize-business-objects-with-default-property-values-in-entity-framework)
+* [How to use the Workflow Module with the Entity Framework data model](https://supportcenter.devexpress.com/ticket/details/t241189/how-to-use-the-workflow-module-with-the-entity-framework-data-model)
+* [How to enable delayed loading of images in Entity Framework](https://supportcenter.devexpress.com/ticket/details/t161987/how-to-enable-delayed-loading-of-images-in-entity-framework)
+* [How to: Use both Entity Framework and XPO in a Single Application](https://supportcenter.devexpress.com/ticket/details/e4543/how-to-use-both-entity-framework-and-xpo-in-a-single-application)
 
 ## UI
 * [Ways to: Show a View](https://docs.devexpress.com/eXpressAppFramework/112803/concepts/ui-construction/views/ways-to-show-a-view)-by DevExpress.
@@ -178,6 +188,9 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to: Change the application logo](https://supportcenter.devexpress.com/ticket/details/e4721/how-to-change-the-application-logo)-by DevExpress.
 * [How to: Programmatically select a record in the lookup](https://supportcenter.devexpress.com/ticket/details/e300/how-to-programmatically-select-a-record-in-the-lookup)-by DevExpress.
 * [How to: Provide a specific View layout for users of certain security roles](https://supportcenter.devexpress.com/ticket/details/e274/how-to-provide-a-specific-view-layout-for-users-of-certain-security-roles)-by DevExpress.
+* [How to access the DocumentManager, BarManager and RibbonControl](https://supportcenter.devexpress.com/ticket/details/e4027/how-to-access-the-documentmanager-barmanager-and-ribboncontrol)
+* [How to: Implement Custom Context Navigation](https://supportcenter.devexpress.com/ticket/details/e1843/how-to-implement-custom-context-navigation)
+* [How to: Include an Action to a Detail View Layout](https://supportcenter.devexpress.com/ticket/details/e1847/how-to-include-an-action-to-a-detail-view-layout)
 
 ## BI
 * [How to: Create a Predefined Dashboard and Add it to the Navigation](https://docs.devexpress.com/eXpressAppFramework/117453/concepts/extra-modules/dashboards/create-a-predefined-dashboard-and-add-it-to-the-navigation)-by DevExpress.
@@ -190,6 +203,14 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to: Import data in XAF](https://supportcenter.devexpress.com/ticket/details/e1719/how-to-import-data-in-xaf) 
 * [How to: Implement dependent views in a DashboardView (filter based on selection)](https://supportcenter.devexpress.com/ticket/details/e4916/how-to-implement-dependent-views-in-a-dashboardview-filter-based-on-selection)-by DevExpress.
 * [How to: Print a report without displaying a preview](https://supportcenter.devexpress.com/ticket/details/e5146/how-to-print-a-report-without-displaying-a-preview)-by DevExpress.
+* [How to: Customize the ReportDataV2 Class](https://supportcenter.devexpress.com/ticket/details/t154234/how-to-customize-the-reportdatav2-class)
+* [How to: Filter a Report Parameter's Lookup](https://supportcenter.devexpress.com/ticket/details/t319024/how-to-filter-a-report-parameter-s-lookup)
+* [How to: Execute a Stored Procedure from the Workflow Activity](https://supportcenter.devexpress.com/ticket/details/t287283/how-to-execute-a-stored-procedure-from-the-workflow-activity)
+* [How to create and setup an XtraReport report for exporting to a Stream in a non-XAF application](https://supportcenter.devexpress.com/ticket/details/t275059/how-to-create-and-setup-an-xtrareport-report-for-exporting-to-a-stream-in-a-non-xaf)
+* [How to allow users to create filter via the criteria editor before previewing a report](https://supportcenter.devexpress.com/ticket/details/e1607/how-to-allow-users-to-create-filter-via-the-criteria-editor-before-previewing-a-report)
+* [How to use the File Attachment Module with a legacy database](https://supportcenter.devexpress.com/ticket/details/t237508/how-to-use-the-file-attachment-module-with-a-legacy-database)
+* [How to make PivotGrid fields invisible when the Analysis view is initialized](https://supportcenter.devexpress.com/ticket/details/e1395/how-to-make-pivotgrid-fields-invisible-when-the-analysis-view-is-initialized)
+
 
 ## Filtering
 * [How to: Build Criterias](https://docs.devexpress.com/eXpressAppFramework/113052/concepts/filtering/ways-to-build-criteria)-by DevExpress.
@@ -198,6 +219,7 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to: Use Function Criteria Operators to Filter List Views](https://supportcenter.devexpress.com/ticket/details/e3936/how-to-use-function-criteria-operators-to-filter-list-views)-by DevExpress.
 * [How to: Use Criteria Property Editors](https://supportcenter.devexpress.com/ticket/details/e932/how-to-use-criteria-property-editors)-by DevExpress.
 * [How to: Show filter dialog before showing ListView](https://supportcenter.devexpress.com/ticket/details/e1554/how-to-show-filter-dialog-before-showing-listview)-by DevExpress.
+* [How to sort a ListView in code](https://supportcenter.devexpress.com/ticket/details/e1276/how-to-sort-a-listview-in-code)
 
 ## Security
 * [How to: Implement Custom Security Objects(Users, Roles, Operation Permissions)](https://docs.devexpress.com/eXpressAppFramework/113384/task-based-help/security/how-to-implement-custom-security-objects-users-roles-operation-permissions)-by DevExpress.
@@ -209,6 +231,7 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to: Allow a user to select the authentication type at runtime](https://supportcenter.devexpress.com/ticket/details/e2371/how-to-allow-a-user-to-select-the-authentication-type-at-runtime)-by DevExpress.
 * [How to: Enforce password complexity in XAF](https://supportcenter.devexpress.com/ticket/details/e2849/how-to-enforce-password-complexity-in-xaf)-by DevExpress.
 * [How to: Use the Integrated Mode of the Security System in Non-XAF Applications](https://supportcenter.devexpress.com/ticket/details/e4908/how-to-use-the-integrated-mode-of-the-security-system-in-non-xaf-applications)-by DevExpress.
+* [Permissions for Aggregated Objects](https://supportcenter.devexpress.com/ticket/details/e943/permissions-for-aggregated-objects)
 
 ## Windows
 * [How to: Create a Custom WinForms Ribbon Template](https://docs.devexpress.com/eXpressAppFramework/112618/task-based-help/templates/how-to-create-a-custom-winforms-ribbon-template)-by DevExpress.
@@ -223,6 +246,10 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to: Integrate Snap reports in XAF WinForms](https://supportcenter.devexpress.com/ticket/details/t164798/how-to-integrate-snap-reports-in-xaf-winforms)-by DevExpress.
 * [How to: Show a custom form as the WinForms Dashboard Designer](https://supportcenter.devexpress.com/ticket/details/t473819/how-to-show-a-custom-form-as-the-winforms-dashboard-designer)-by DevExpress.
 * [TreeListEditor - How to enable in-place editing in the WinForms tree List View (XPO)](https://supportcenter.devexpress.com/ticket/details/e443/treelisteditor-how-to-enable-in-place-editing-in-the-winforms-tree-list-view-xpo)-by DevExpress.
+* [How to: Use the Workflow Module](https://supportcenter.devexpress.com/ticket/details/e4523/how-to-use-the-workflow-module)
+* [How to: Access the Navigation Dock Panel (in a WinForms application)](https://supportcenter.devexpress.com/ticket/details/t275956/how-to-access-the-navigation-dock-panel-in-a-winforms-application)
+* [How to: Create a Custom a WinForms Standard Template](https://supportcenter.devexpress.com/ticket/details/t196002/how-to-create-a-custom-a-winforms-standard-template)
+* [How to: Add a button to a Form using Custom View Item](https://supportcenter.devexpress.com/ticket/details/t137443/how-to-add-a-button-to-a-form-using-custom-view-item)
 
 ## Web
 * [How to: Customize an ASP.NET Template](https://docs.devexpress.com/eXpressAppFramework/113460/task-based-help/templates/how-to-customize-an-asp-net-template)-by DevExpress.
@@ -243,6 +270,15 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to: Display a non-persistent object's Detail View from the Navigation](https://supportcenter.devexpress.com/ticket/details/e4447/how-to-display-a-non-persistent-object-s-detail-view-from-the-navigation)-by DevExpress.
 * [How to: Show a hyper link (URL, email, etc.) for a business class property](https://supportcenter.devexpress.com/ticket/details/e2096/how-to-show-a-hyper-link-url-email-etc-for-a-business-class-property)-by DevExpress.
 * [How to: Access the Application Model in Code](https://supportcenter.devexpress.com/ticket/details/e224/how-to-access-the-application-model-in-code)-by DevExpress.
+* [How to show a complex dialog](https://supportcenter.devexpress.com/ticket/details/e5067/how-to-show-a-complex-dialog)
+* [How to add spell checking capabilities into an XAF application for Windows and the Web](https://supportcenter.devexpress.com/ticket/details/e736/how-to-add-spell-checking-capabilities-into-an-xaf-application-for-windows-and-the-web)
+* [How to calculate a master property based on values from a details collection](https://supportcenter.devexpress.com/ticket/details/e305/how-to-calculate-a-master-property-based-on-values-from-a-details-collection)
+* [How to use custom ReportParametersObject to filter detail reports ( DetailReportBand )](https://supportcenter.devexpress.com/ticket/details/e1396/how-to-use-custom-reportparametersobject-to-filter-detail-reports-detailreportband)
+* [Validation - How to highlight invalid properties when the View is shown](https://supportcenter.devexpress.com/ticket/details/e1524/validation-how-to-highlight-invalid-properties-when-the-view-is-shown)
+* [How to: Disable Property Editors Based on a Business Rule](https://supportcenter.devexpress.com/ticket/details/e1672/how-to-disable-property-editors-based-on-a-business-rule)
+* [How to: Use Notifications with a Custom Business Class (Implement ISupportNotifications)](https://supportcenter.devexpress.com/ticket/details/t177793/how-to-use-notifications-with-a-custom-business-class-implement-isupportnotifications)
+* [How to Implement a Singleton class](https://supportcenter.devexpress.com/ticket/details/e237/how-to-implement-a-singleton-class)
+* [How to copy last entered values into a newly created object, when using the Save and New action](https://supportcenter.devexpress.com/ticket/details/e2484/how-to-copy-last-entered-values-into-a-newly-created-object-when-using-the-save-and-new)
 
 # Frequently Asked Questions
 
@@ -253,6 +289,8 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 ## XPO
 * [How to: Initialize Business Objects with Default Property Values in XPO](https://docs.devexpress.com/eXpressAppFramework/113258/task-based-help/business-model-design/express-persistent-objects-xpo/how-to-initialize-business-objects-with-default-property-values-in-xpo)
 * [How to: Calculate a Property Value Based on Values from a Detail Collection](https://docs.devexpress.com/eXpressAppFramework/113179/task-based-help/business-model-design/express-persistent-objects-xpo/how-to-calculate-a-property-value-based-on-values-from-a-detail-collection)
+
+
 
 ## UI
 * [How to: Access Objects Selected in the Current View](https://docs.devexpress.com/eXpressAppFramework/113324/task-based-help/views/how-to-access-objects-selected-in-the-current-view)
