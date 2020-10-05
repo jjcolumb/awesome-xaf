@@ -315,12 +315,6 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to: Initialize an Object Created Using the New Action](https://docs.devexpress.com/eXpressAppFramework/112912/task-based-help/actions/how-to-initialize-an-object-created-using-the-new-action)
 * [How to: Customize Action Controls](https://docs.devexpress.com/eXpressAppFramework/113183/task-based-help/actions/how-to-customize-action-controls)
 
-
-
-
-## Jobs
-* [XAFers Jobs](https://www.xafers.jobs/) 
-
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
