@@ -82,6 +82,8 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [June 11th 2020 - Live QnA](https://youtu.be/8CbuEwsiYTQ?list=PLpXYoGWvPdNs9s5jbA7A1hqAq9jYVnxTB)
 * [July 9th 2020 - Best Practices](https://youtu.be/VSeuxJ4doJo?list=PLpXYoGWvPdNs9s5jbA7A1hqAq9jYVnxTB)
 * [ August 13th 2020 - Testing and DevOps](https://youtu.be/_HdH92EHd3U?list=PLpXYoGWvPdNs9s5jbA7A1hqAq9jYVnxTB)
+* [September 10th 2020 - What is XAF? XPO? Why should I care?](https://youtu.be/8hiiD3NCAsY)
+* [October 8th 2020 - QnA](https://youtu.be/UtLSGsDJe9I)
 
 ## Blogs
 * [DevExpress Blog](https://community.devexpress.com/tags/XAF/default.aspx) 
