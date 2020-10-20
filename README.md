@@ -146,7 +146,7 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [Joche Ojeda Youtube Channel](https://www.youtube.com/channel/UC0fujupkyItCvJl5SeLd08Q/search?query=espanol) - [Spanish] 
 
 ## Jobs
-* [Jobs](https://www.xafersjobs.com/)
+* [XAFers Jobs](https://www.xafersjobs.com/)
 
 ## Deployment Tutorial
 * [How to deploy an XAF application in a production environment.](https://docs.devexpress.com/eXpressAppFramework/113231/deployment/deployment-tutorial)-by DevExpress.
