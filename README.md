@@ -124,6 +124,9 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [Twitter](https://twitter.com/hashtag/XAF) - Hashtag on Twitter.
 * [XAFers Weekly](http://xafersweekly.com/) - Weekly Newsletter.
 
+##Jobs
+* [Jobs](https://www.xafersjobs.com/)
+
 ## Testing
 * [Unit Tests](https://docs.devexpress.com/eXpressAppFramework/401829/concepts/debugging-testing-and-error-handling/unit-tests) - Official Documentation.
 * [Easy Test](https://docs.devexpress.com/eXpressAppFramework/113211/concepts/debugging-testing-and-error-handling/functional-tests-easy-test) - Official Documentation.
@@ -168,7 +171,7 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [How to enable delayed loading of images in XPO](https://supportcenter.devexpress.com/ticket/details/t162404/how-to-enable-delayed-loading-of-images-in-xpo)
 * [How to: Use both Entity Framework and XPO in a Single Application](https://supportcenter.devexpress.com/ticket/details/e4543/how-to-use-both-entity-framework-and-xpo-in-a-single-application)
 
-##Entity Framework
+## Entity Framework
 * [How to: Initialize Business Objects with Default Property Values in Entity Framework](https://supportcenter.devexpress.com/ticket/details/t209960/how-to-initialize-business-objects-with-default-property-values-in-entity-framework)
 * [How to use the Workflow Module with the Entity Framework data model](https://supportcenter.devexpress.com/ticket/details/t241189/how-to-use-the-workflow-module-with-the-entity-framework-data-model)
 * [How to enable delayed loading of images in Entity Framework](https://supportcenter.devexpress.com/ticket/details/t161987/how-to-enable-delayed-loading-of-images-in-entity-framework)
