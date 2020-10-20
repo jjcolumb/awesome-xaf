@@ -124,8 +124,6 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [Twitter](https://twitter.com/hashtag/XAF) - Hashtag on Twitter.
 * [XAFers Weekly](http://xafersweekly.com/) - Weekly Newsletter.
 
-##Jobs
-* [Jobs](https://www.xafersjobs.com/)
 
 ## Testing
 * [Unit Tests](https://docs.devexpress.com/eXpressAppFramework/401829/concepts/debugging-testing-and-error-handling/unit-tests) - Official Documentation.
@@ -146,6 +144,9 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 ## Other Languages
 * [Jose Javier Columbie Youtube Channel](https://www.youtube.com/channel/UCcdGHZn-LT6jloM6D10AZhA/search?query=spanish) - [Spanish] 
 * [Joche Ojeda Youtube Channel](https://www.youtube.com/channel/UC0fujupkyItCvJl5SeLd08Q/search?query=espanol) - [Spanish] 
+
+## Jobs
+* [Jobs](https://www.xafersjobs.com/)
 
 ## Deployment Tutorial
 * [How to deploy an XAF application in a production environment.](https://docs.devexpress.com/eXpressAppFramework/113231/deployment/deployment-tutorial)-by DevExpress.
