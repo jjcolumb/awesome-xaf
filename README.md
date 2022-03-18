@@ -58,6 +58,7 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [XAFARI](https://galaktika-soft.com/xafari) 
 * [SenDev XAF Dashboards](https://github.com/SenDevGmbH/SenDevXafDashboards) 
 * [Ultra modules](https://github.com/egarim/Ultra) 
+* [Xenial Framework](https://github.com/xenial-io/Xenial.Framework) 
 
 
 
